@@ -1,12 +1,3 @@
-// chrome.tabs.onUpdated.addListener(function(tabId, changeInfo, tab){
-//     if(changeInfo.status == 'complete' && /github.com/.test(tab.url)){
-//         do_the_magic_with_title(tab.title);
-//     }
-
-//     // do_the_magic();
-// });
-
-
 var t, ttext, ino;
 
 t = document.getElementsByTagName( 'title' );
