@@ -7,3 +7,5 @@ Currently displays issue number in the beginning of a title of a page - so you w
 Example: 
 
 <img class="embeddedObject" src="http://content.screencast.com/users/slaFFik/folders/Jing/media/68893eb1-28ca-4d44-8d1b-0145154ecf55/2013-01-15_1837.png" width="133" height="31" border="0" />
+
+Based on http://teleogistic.net/2013/01/make-github-issue-numbers-appear-in-browser-tabs/
