@@ -1,0 +1,15 @@
+{
+	"name": "Github Issues Improver",
+    "manifest_version": 2,
+	"version": "1.0",
+	"description": "Some minor improvements into the way issues are displayed on Github.com",
+
+    "content_scripts": [
+        {
+            "matches": ["https://github.com/*"],
+            "js": ["background.js"]
+        }
+    ],
+
+    "offline_enabled" : true
+}
